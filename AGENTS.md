@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `programming-best-practices` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill that applies TDD, SOLID, static typing, docstrings, linting and logging.
+This repo packages the `programming-best-practices` agent skill. Agent skill that applies TDD, SOLID, static typing, docstrings, linting and logging.
 
 ## Layout
 
